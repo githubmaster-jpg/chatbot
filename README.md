@@ -13,8 +13,14 @@ Are you curious about AI? You can ask the chatbot about the following topics:
 
 note: you can only ask about one topic at a time
 
+# trivia
+Ask the chatbot about ***trivia*** and you might learn something new about AI!
+
 # exiting program
 Simply type in ***exit*** or close the program
+
+# conversation log
+Chatbot now logs your conversation with it. A text file will be created in your current directory, and from there you can view current and past interactions.
 
 # example of use
 ```diff
@@ -25,6 +31,8 @@ Simply type in ***exit*** or close the program
 + objects and desired output values which are most often labeled by humans. The training process should return a model
 + that can map unseen data to excpected output values as long as the training was done successfully.
 + What else would you like to ask me?
+! Give me some trivia.
++ The first AI to beat a chess world champion in a chess match was Deep Blue! This historical moment happened in 1997.
 ! exit
 + Thanks for your time!
 ```
