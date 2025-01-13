@@ -33,6 +33,7 @@ Chatbot now logs your conversation with it. A text file will be created in your 
 + What else would you like to ask me?
 ! Give me some trivia.
 + The first AI to beat a chess world champion in a chess match was Deep Blue! This historical moment happened in 1997.
++ What else would you like to ask me?
 ! exit
 + Thanks for your time!
 ```
